@@ -21,14 +21,17 @@ ________________________________________________________________________________
 
 - 👯 I’m looking to collaborate on **Scriptheaven.live**
 
-- 📫 How to reach me **prabhathde2021@gmail.com**
+- 📫 How to reach me [Connect with me on LinkedIn](https://www.linkedin.com/in/prabhath-de/)
+
+
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/r_prabhath_de" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="r_prabhath_de" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prabhath-de" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabhath-de" height="30" width="40" /></a>
 <a href="https://fb.com/r.prabhath.de" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="r.prabhath.de" height="30" width="40" /></a>
 <a href="https://instagram.com/prabhath__de" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prabhath__de" height="30" width="40" /></a>
+<a href="https://twitter.com/r_prabhath_de" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="r_prabhath_de" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
