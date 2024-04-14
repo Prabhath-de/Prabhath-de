@@ -40,8 +40,8 @@ ________________________________________________________________________________
 
 <p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=prabhath-de&" alt="prabhath-de" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhath-de&show_icons=true&locale=en&layout=compact" alt="prabhath-de" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhath-de&show_icons=true&locale=en&layout=compact" alt="prabhath-de" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhath-de&show_icons=true&locale=en" alt="prabhath-de" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhath-de&show_icons=true&locale=en" alt="prabhath-de" /></p>
 
 
