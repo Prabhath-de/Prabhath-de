@@ -1,6 +1,14 @@
-<h1 align="center">Hi 👋, I'm Prabhath De Silva</h1>
-<h3 align="center">👋 Hello there! I'm Prabhath, an undergraduate student at NSBM Green University pursuing a degree in Computer Networking. 
-  <br>🤝 Welcome to my GitHub profile! 🚀</h3>
+<h1 align="center">Hi 👋, I'm Prabhath De Silva.</h1>
+
+  
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=+Hello+there!!!👋;I'm+Prabhath;an+Undergraduate+student+at;NSBM+Green+University;Pursuing+a+degree+in;Computer+Networking;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..;🤝+Welcome+to+my+Github+Profile+!!!;"></a>
+</p>
+
+	
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+
 ______________________________________________________________________________________________________________________
 
 
