@@ -1,3 +1,4 @@
+ <picture><img align="RIGHT" src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 100px ></picture>
 <h1 align="center">Hi 👋, I'm Prabhath De Silva.</h1>
 
   
