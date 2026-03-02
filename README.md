@@ -1,53 +1,74 @@
-<h1 align="center">Hi 👋, I'm Prabhath De Silva</h1>
-<h3 align="center">Software Developer | Tech Enthusiast | Problem Solver</h3>
+<h1 align="center">Hi 👋, I'm Prabhath</h1>
+<h3 align="center">Computer Networking Undergraduate | DevOps & Cybersecurity Enthusiast</h3>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 💼 Currently working at **Pixel Clear (Pvt) Ltd**
-- 🤝 Looking to collaborate on **Scriptheaven.live**
-- 🌱 Always learning and exploring new technologies
-- 💬 Ask me about Web Development, Programming, and Tech
-- 📫 Reach me via **LinkedIn**
+- 🎓 Computer Networking Undergraduate  
+- 🔐 Interested in Cybersecurity, Network Security & DevOps  
+- ⚙️ Working with CI/CD, Automation & Cloud Deployments  
+- 🛡️ Experience with OWASP ZAP, Security Hardening & Server Management  
+- 🌱 Currently improving skills in Linux, Docker & Cloud Infrastructure  
+- 🌍 Portfolio: https://prabhath.vercel.app/
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### 💻 Languages
-- JavaScript
-- Python
-- Java
-- C++
-- HTML / CSS
+### 💻 Networking
+- TCP/IP, Routing & Switching
+- Network Monitoring
+- Firewall Configuration
+- SSH Security & Brute-force Detection
 
-### ⚙️ Frameworks & Tools
-- React
-- Node.js
+### 🔐 Cybersecurity
+- OWASP Top 10
+- Vulnerability Assessment
+- OWASP ZAP
+- Basic Penetration Testing
+- Fail2Ban & Log Analysis
+
+### ⚙️ DevOps & Tools
 - Git & GitHub
-- Firebase
-- MySQL
+- GitHub Actions
+- CI/CD Pipelines
+- Linux Server Administration
+- Apache / Nginx
+- Docker (Basics)
+
+### 💡 Programming & Scripting
+- Bash
+- PHP
+- Basic Python
+
+---
+
+## 📌 Projects
+
+### 🔎 SSH Brute-force Detection Research
+An anomaly-based detection system to identify suspicious SSH login behavior and compare detection accuracy against traditional static rule-based systems.
+
+### 🚀 CI/CD Automation Project
+Automated deployment pipeline using GitHub Actions to eliminate manual server updates and improve deployment efficiency.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prabhath-de&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhath-de&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">LinkedIn</a> |
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">Twitter</a> |
-  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">Instagram</a>
-</p>
+- 🌐 Portfolio: https://prabhath.vercel.app/
+- 💼 LinkedIn: (Add your LinkedIn link)
+- 📧 Email: (Your professional email)
 
 ---
 
-⭐️ From [Prabhath-de](https://github.com/YOUR_USERNAME)
+⭐ Always learning. Always building. Always improving.
