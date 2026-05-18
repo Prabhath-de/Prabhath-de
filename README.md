@@ -22,13 +22,6 @@
 - Firewall Configuration
 - SSH Security & Brute-force Detection
 
-### 🔐 Cybersecurity
-- OWASP Top 10
-- Vulnerability Assessment
-- OWASP ZAP
-- Basic Penetration Testing
-- Fail2Ban & Log Analysis
-
 ### ⚙️ DevOps & Tools
 - Git & GitHub
 - GitHub Actions
