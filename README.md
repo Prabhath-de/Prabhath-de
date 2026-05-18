@@ -66,8 +66,8 @@ Automated deployment pipeline using GitHub Actions to eliminate manual server up
 ## 📫 Connect With Me
 
 - 🌐 Portfolio: https://prabhath.vercel.app/
-- 💼 LinkedIn: (Add your LinkedIn link)
-- 📧 Email: (Your professional email)
+- 💼 LinkedIn: https://www.linkedin.com/in/prabhath-de/
+- 📧 Email: info.rashmika.prabhath@gmail.com
 
 ---
 
