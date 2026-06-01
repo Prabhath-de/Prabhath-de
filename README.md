@@ -14,29 +14,6 @@
 
 ---
 
-## 🛠️ Technical Skills
-
-### 💻 Networking
-- TCP/IP, Routing & Switching
-- Network Monitoring
-- Firewall Configuration
-- SSH Security & Brute-force Detection
-
-### ⚙️ DevOps & Tools
-- Git & GitHub
-- GitHub Actions
-- CI/CD Pipelines
-- Linux Server Administration
-- Apache / Nginx
-- Docker (Basics)
-
-### 💡 Programming & Scripting
-- Bash
-- PHP
-- Basic Python
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
