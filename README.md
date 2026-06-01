@@ -12,16 +12,6 @@
 - 🌱 Currently improving skills in Linux, Docker & Cloud Infrastructure  
 - 🌍 Portfolio: https://prabhath.vercel.app/
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prabhath-de&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhath-de&theme=tokyonight" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
@@ -32,3 +22,14 @@
 ---
 
 ⭐ Always learning. Always building. Always improving.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prabhath-de&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhath-de&theme=tokyonight" />
+</p>
+
+---
