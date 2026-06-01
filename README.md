@@ -37,16 +37,6 @@
 
 ---
 
-## 📌 Projects
-
-### 🔎 SSH Brute-force Detection Research
-An anomaly-based detection system to identify suspicious SSH login behavior and compare detection accuracy against traditional static rule-based systems.
-
-### 🚀 CI/CD Automation Project
-Automated deployment pipeline using GitHub Actions to eliminate manual server updates and improve deployment efficiency.
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
